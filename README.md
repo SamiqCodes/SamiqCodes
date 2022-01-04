@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SamiqCodes
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer languages
-- 💞️ I’m looking to collaborate on notihng
 - 📫 How to reach me insta - https://www.instagram.com/samiqx_/
 
 <!---
